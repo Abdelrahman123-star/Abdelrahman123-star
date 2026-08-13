@@ -4,7 +4,7 @@
 <div align="center">
   <img src="imgs/WhiteBackGround1.png" width="100%" alt="Abdelrahman Zayed - Software Engineer" />
 </div>
-###
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Abdelrahman123-star/Abdelrahman123-star/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=450&langs_count=6&theme=gotham&hide_border=true" height="200" alt="languages graph" />
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=2.7k&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-###
+
 
 <img data-importer="image" align="right" height="250" src="https://abdelrahman.lovestoblog.com/imgs/about-photo.png"  />
 
@@ -80,6 +80,6 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Abdelrahman123-star/Abdelrahman123-star/snake-output/snake.svg" height="80%" width="80%" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/Abdelrahman123-star/Abdelrahman123-star/snake-output/snake.svg" height="85%" width="85%" alt="Snake animation" />
 
 ###
