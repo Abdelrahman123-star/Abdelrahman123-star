@@ -80,6 +80,6 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Abdelrahman123-star/Abdelrahman123-star/snake-output/snake.svg" height="45%" width="45%" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/Abdelrahman123-star/Abdelrahman123-star/snake-output/snake.svg" height="80%" width="80%" alt="Snake animation" />
 
 ###
