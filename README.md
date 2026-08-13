@@ -1,11 +1,9 @@
 <h2 data-importer="text" align="left">👋 Hey, I'm Abdelrahman Zayed!</h2>
 
 ###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="imgs/WhiteBackGround1.png"   height="100%" alt="Abdelrahman Zayed - Software Engineer" />
+<div align="center">
+  <img src="imgs/WhiteBackGround1.png" width="100%" alt="Abdelrahman Zayed - Software Engineer" />
 </div>
-
 ###
 
 <div data-importer="stats" align="center">
