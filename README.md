@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="imgs/WhiteBackGround1.png"  width="100%" height="100%" alt="Abdelrahman Zayed - Software Engineer" />
+  <img data-importer="image" height="200" src="imgs/WhiteBackGround1.png"  width="80%" height="100%" alt="Abdelrahman Zayed - Software Engineer" />
 </div>
 
 ###
