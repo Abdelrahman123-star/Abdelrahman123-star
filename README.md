@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="WhiteBackGround1.png"  />
+  <img data-importer="image" height="200" src=""  />
 </div>
 
 ###
