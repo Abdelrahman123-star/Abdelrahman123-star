@@ -25,7 +25,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://abdelrahman.lovestoblog.com/imgs/about-photo.png"  />
+<img data-importer="image" align="right" height="250" src="https://abdelrahman.lovestoblog.com/imgs/about-photo.png"  />
 
 ###
 
