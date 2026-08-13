@@ -6,9 +6,10 @@
 </div>
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Abdelrahman123-star/Abdelrahman123-star/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Abdelrahman123-star&locale=en&mode=weekly&theme=gotham&hide_border=true&border_radius=40" height="110" alt="streak graph"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Abdelrahman123-star/Abdelrahman123-star/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=450&langs_count=6&theme=gotham&hide_border=true" height="200" alt="languages graph" />
+
+  <img src="https://streak-stats.demolab.com?user=Abdelrahman123-star&locale=en&mode=weekly&theme=gotham&hide_border=true&border_radius=40" height="200" alt="streak graph" />
 </div>
 
 ###
