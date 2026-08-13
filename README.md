@@ -16,13 +16,12 @@
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/abdelrahman-zayed-5a36a738b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45"width="160" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/abdelrahman_zayed__/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=2.7k&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"  height="45"width="160"  alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=2.7k&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
 ###
 
 <img data-importer="image" align="right" height="250" src="https://abdelrahman.lovestoblog.com/imgs/about-photo.png"  />
@@ -81,6 +80,6 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Abdelrahman123-star/Abdelrahman123-star/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/Abdelrahman123-star/Abdelrahman123-star/snake-output/snake.svg" height="40%"width="40%" alt="Snake animation" />
 
 ###
